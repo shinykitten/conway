@@ -1,2 +1,2 @@
 # conway
-conway's game of life, using rust and piston
+Conway's Game of Life, using Rust and Piston.
